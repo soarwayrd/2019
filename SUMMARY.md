@@ -8,6 +8,6 @@
 * [.Net  .Net Core](net-and-net-core.md)
   * [Web.Config](net-and-net-core/webconfig.md)
     * [Json返回长度](net-and-net-core/webconfig/jsonfan-hui-chang-du.md)
-    * 附件上传大小
-    * IIS不支持Put、Delete
+    * [附件上传大小](net-and-net-core/webconfig/fu-jian-shang-chuan-da-xiao.md)
+    * [IIS不支持Put、Delete](net-and-net-core/webconfig/iisbu-zhi-chi-put-delete.md)
 
